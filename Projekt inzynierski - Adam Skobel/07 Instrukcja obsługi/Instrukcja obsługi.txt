@@ -1,0 +1,9 @@
+Do obsługi urządzenia służą 2 przyciski funkcyjne. 
+Wybór prawego przycisku (S1) spowoduje przełączenie się wyświetlanego obrazu między 5 dostępnymi stronami (menu) o jeden stopień w górę, natomiast wybór lewego (S0) spowoduje cofnięcie się w obszarze menu o jeden stopnień w dół. 
+W przypadku przytrzymania któregolwiek z przycisków nastąpi nieustanna, dynamiczna inkrementacja lub dekrementacja (w zależności od przytrzymywanego przycisku) strony.
+Menu składa się z 5 stron: aktualna godzina (strona 1), data (strona 2), długość geograficzna (strona 3), szerokość geograficzna (strona 4) oraz prędkość (strona 5). 
+Dane wyświetlane są na wyświetlaczu LCD ze znakami w formule ART BIG, co oznacza, że wyświetlane znaki będą dobrze widoczne dzięki ich dużemu rozmiarowi oraz zielonemu tłu, które stanowi kontrast dla znaków czarnego koloru. 
+Po podłączeniu zasilania akumulatorowego na ekranie wyświetlać się będą informacje w 2 wierszach - w pierwszym wierszu ukazywane są danych pomiarowe, a w drugim wyświetlany jest numer strony. 
+Dla strony nr 3 oraz 4, tj. szerokość oraz długość geograficzna, nie wyświetlany jest numer strony, gdyż dane pomiarowe zajmują całą przestrzeń wyświetlacza. 
+W przypadku ciągłego braku łączności modułu z systemem satelitarnym, a co za tym idzie brakiem uzyskiwania poprawnych danych, na ekranie wyświetli się komunikat „LOADING!”. 
+Należy wtedy poczekać aż moduł GPS zacznie odbierać informacje prawidłowo, co zasygnalizowane będzie miganiem niebieskiej diody LED, umieszczonej na module. Szacowany czas do rozpoczęcia poprawnego działania modułu GPS od momentu włączenia zasilania to okres ok. 27 sekund w przypadku dobrego zasięgu.

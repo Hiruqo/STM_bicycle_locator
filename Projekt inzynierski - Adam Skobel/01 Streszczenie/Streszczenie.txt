@@ -1,0 +1,9 @@
+Celem pracy jest zaprojektowanie i wykonanie licznika rowerowego, wykorzystującego w swoim działaniu moduł GPS. 
+Głównym komponentem wchodzącym w skład urządzenia jest mikrokontroler STM32. 
+Licznik rowerowy powinien zawierać pewne funkcjonalności, które wyświetlane będą na wyświetlaczu LCD. 
+Podstawową funkcją eksponowaną na wyświetlaczu ma być aktualna prędkość. 
+Dodatkowe informacje, które ma otrzymać użytkownik licznika rowerowego to m.in. aktualne dane pozycji geograficznej (szerokość oraz długość geograficzna), aktualna data oraz godzina pomiaru.
+Urządzenie powinno posiadać mały rozmiar, aby umożliwić dogodny montaż na kierownicy rowerowej. 
+W projekcie powinien być również zawarty zewnętrzny moduł zasilania.
+Urządzenie projektowane jest z myślą o umieszczeniu go we własnoręcznie przygotowanej obudowie, chroniącej urządzenie przed uszkodzeniami mechanicznymi i nadającej projektowi walory estetyczne.
+Słowa kluczowe: moduł GPS, mikrokontroler STM32, wyświetlacz LCD, moduł zasilania.

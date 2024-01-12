@@ -1,0 +1,7 @@
+[01] Podczas testu należało poczekać chwilę podczas dotarcia do punktu końcowego (punktu startowego).
+Po krótkiej chwili GPS wskazałby lokalizację końcową zbliżoną do początkowej
+
+[04] Przed całkowitą utratą połączenia licznik wskazał prędkość przekłamaną o 3km/h.
+Podczas wcześniejszych testów dla słabego sygnału satelitarnego przekłamanie wynosiło nawet 20km/h!
+
+[05] Dane pomiarowe wyświetlane są w km/h oraz w wezłach (1 węzeł = 1/2 [m/s])
